@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Software Engineering, Cyber Security, and Cryptography<br>🎯 Goals: finishing my Informatics degree and join an internship on Software Engineering or Cyber Security Field<br>🎲
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Software Engineering, Cyber Security, and Cryptography<br>🎯 Goals: finishing my Informatics degree and join an internship on Software Engineering or Cyber Security Field<br>
 
 ###
 
@@ -27,7 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" height="40" alt="nuxt logo"  />
   <img width="12" />
 </div>
 
