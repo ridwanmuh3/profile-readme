@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating dirty working code since 2024<br>📚 I'm currently learning Software Engineering, Cyber Security, and Cryptography<br>🎯 My short term goals are finishing my Informatics degree and join an internship on Software Engineering or Cyber Security Field<br>
+<p align="left">✨ Creating dirty working code since 2024<br>📚 I'm passionate to learn Software Engineering, Cyber Security, Blockchain, and Cryptography<br>🎯 My short term goals are finishing my Informatics degree and join an internship on Software Engineering or Cyber Security Field<br>
 
 ###
 
@@ -43,8 +43,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcp/gcp-original.svg" height="40" alt="google cloud platform logo" title="Google Cloud Platform" />
-  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="google cloud platform logo" title="Google Cloud Platform" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" height="40" alt="google cloud platform logo" title="Google Cloud Platform" />
+  <img width="12" />
 </div>
 
 ###
