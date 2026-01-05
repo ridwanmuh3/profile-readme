@@ -1,6 +1,6 @@
 <img style="
   width: 2048px; 
-  height: 250px; 
+  height: auto; 
   object-fit: cover; 
   object-position: center;" 
   alt="anime-4" 
