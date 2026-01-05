@@ -1,8 +1,8 @@
 <img style="
   width: 2048px; 
   height: auto; 
-  max-height:250px;
-  object-fit: cover; 
+  max-height:200px;
+  object-fit: contain; 
   object-position: center;" 
   alt="anime-4" 
   src="https://github.com/user-attachments/assets/30a2f4c7-39ef-4900-bc85-6b780f5b186f" />
