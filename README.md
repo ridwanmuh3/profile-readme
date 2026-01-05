@@ -2,7 +2,7 @@
   width: 100%; 
   max-width: 2048px; 
   height: 200px; 
-  object-fit: cover; 
+  object-fit: contain; 
   object-position: center;" 
   src="https://github.com/user-attachments/assets/30a2f4c7-39ef-4900-bc85-6b780f5b186f" />
 
