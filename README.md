@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating dirty working code since 2024<br>📚 I'm passionate to learn Software Engineering, Cyber Security, Blockchain, and Cryptography<br>🎯 My short term goals are finishing my Informatics degree and join an internship on Software Engineering or Cyber Security Field<br>
+<p align="left">✨ Creating dirty working code since 2024<br>📚 I'm passionate to learn Software Engineering, Cyber Security, Blockchain, and Cryptography<br>🎯 My short term goals are finishing my Informatics degree and join an internship on Software Engineering<br>
 
 ###
 
